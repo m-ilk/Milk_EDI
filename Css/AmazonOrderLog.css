@@ -1,0 +1,27 @@
+
+.equal {
+  display: flex;
+  flex-wrap: wrap;
+}
+.align_right{
+	text-align: right;
+}
+.line_height{
+	line-height: 34px;
+}
+.row{
+	margin-bottom: 5px;
+}
+h3{
+	width: 100%;
+	text-align: center;
+}
+.poanchor{
+	cursor: pointer;
+}
+.form-group{
+	margin-bottom: 0;
+}
+.max{
+	width: 100%;
+}

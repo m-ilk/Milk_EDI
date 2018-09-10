@@ -1,0 +1,27 @@
+Create Laravel project with 3 pages
+* Home page
+* Login Page
+* User Profile page
+
+Home Page
+Create page, design should be close to the template picture: home_page.jpg
+Use banner image, banner.jpg for the banner, for the logo use logo.png image.
+The page should be responsive, max 1024X768, min768X1024
+
+Login Page
+'Login' link goes to Login Page
+Page has two fields 'email' and 'password'
+The user should log in with email and password.
+
+User Profile Page
+After user login, it goes to User Profile Page
+The page has three fields and when user submit the form, it should stay on the same page and show updated user information.
+
+Use Laravel framework for this project, configure it for Apache server. Use MySQL as a database.
+On front-end use SASS for creating CSS.
+Don't use Javascript frameworks.
+
+Submit your project to the github, create readme.md with installation instructions if necessary. 
+Leave database dump in the project root.
+
+Good luck!  
